@@ -13,7 +13,7 @@ The file book.html contains a rich edition - [Whizzy way on how to become a ₿ 
 
 To order a book, you need to accomplish these steps:
 
-*) Send to __1J12J21ABfVCQpdaBujcf3Xmm3KmCFw66t__ at least twice as many satoshis as there are at this address.
+*) Send to __1RichBBsEM9pEp3QTCWDJNrCiTvdmD4pN__ at least twice as many satoshis as there are at this address.
 
 *) Send a request to an email above, including full delivery address (digital or physical) signed by address you sent funds from.
 
